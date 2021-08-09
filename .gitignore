@@ -1,0 +1,10 @@
+venv/*
+.vscode
+.git
+*.pdf
+*.docx
+*.pem
+__pycache__
+*.hd5
+*.xlsx
+figures/
