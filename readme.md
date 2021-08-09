@@ -6,7 +6,7 @@ I played around with different hyperparameters to see how it would change the re
 Here is what happened
 
 | UUID                                 |  Alpha  |  Gamma  |  Decay  | Best Score |
-|:------------------------------------:|:-------:|:-------:|:-------:|:----------:|
+|:------------------------------------ |:-------:|:-------:|:-------:|:----------:|
 | a65452ae-d636-11eb-85cb-02252fa97aca | 0.00005 | 0.99    | 0.995   |   244.04   |
 | 4662f408-d5f6-11eb-984f-02252fa97aca | 0.0001  | 0.99    | 0.995   |   269.98   |
 | 25c643ee-d9ac-11eb-8997-02362b9e3ec8 | 0.0002  | 0.99    | 0.995   |   261.40   |
