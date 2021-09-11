@@ -1,9 +1,11 @@
+
 I used Double-Deep-Q Learning to beat the Lunar Lander v2 game in OpenAi Gym.
 My solution is done in Python and uses Keras/TensorFlow.
 
+My model in action!
+https://user-images.githubusercontent.com/36865337/132965794-9da0f76a-72b3-4347-95ed-7dabd75e8896.mp4
 
 I played around with different hyperparameters to see how it would change the results
-
 
 If you change alpha...
 | UUID                                 |  Alpha  |  Gamma  |  Decay  | Best Score |
